@@ -1,0 +1,19 @@
+
+body {
+  font-family: IRANSans;
+  direction: rtl;
+  text-align: right;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.direction-ltr{
+  direction: ltr;
+}
+
+.toast{
+  position: fixed;
+  bottom: 100px;
+  left: 5%;
+  min-width: 230px;
+}
